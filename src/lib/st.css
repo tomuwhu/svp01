@@ -13,3 +13,8 @@ img:hover {
 img:active {
     border: solid 10px rgb(131, 23, 23);
 }
+#x, h1 {
+    font-size: 30px;
+    color: rgb(55, 46, 111);
+    text-shadow: 1px 1px 3px gray;
+}
