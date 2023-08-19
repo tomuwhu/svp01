@@ -7,3 +7,9 @@ img {
     border: solid 10px white;
     cursor: pointer;
 }
+img:hover {
+    border: solid 10px rgb(230, 190, 190);
+}
+img:active {
+    border: solid 10px rgb(131, 23, 23);
+}
